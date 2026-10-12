@@ -1,0 +1,14 @@
+{
+  "version": "0.3",
+  "game_version": "1.0.14",
+  "workshop_id": "1559552741",
+  "archive_keys": {
+    "ZXStrings.dat": "1847022185176208962489145797518470221851762089624891457975334454FADSFASDF45345",
+    "ZXCampaignStrings.dat": "-831217260-1747352550571668361"
+  },
+  "source_hashes": {
+    "ZXStrings.dat": "352f12150c75c7f77ece3c576260b48bc1a84be69b731c99c213189b0a7bd178",
+    "ZXCampaignStrings.dat": "68380377102b493e6283410ad629f7907599d38d6964adb8cb09723343bf5838",
+    "50Days.Strings.csv": "ab18847dde3abdf1944a89508e094f089e106c66b7e5c55f43539099ab65ec3c"
+  }
+}

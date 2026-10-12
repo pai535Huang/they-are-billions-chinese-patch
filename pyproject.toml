@@ -1,0 +1,6 @@
+[project]
+name = "they-are-billions-chinese-patch"
+version = "0.3.0"
+description = "Local Chinese localization patch for They Are Billions Steam 1.0.14"
+requires-python = ">=3.10"
+dependencies = []

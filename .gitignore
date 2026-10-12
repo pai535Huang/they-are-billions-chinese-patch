@@ -1,0 +1,6 @@
+originals/
+build/
+releases/
+__pycache__/
+*.pyc
+docs/验证启动日志.txt

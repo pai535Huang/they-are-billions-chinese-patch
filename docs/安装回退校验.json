@@ -1,0 +1,5 @@
+{
+  "install_restore_and_previous_roundtrip": true,
+  "unknown_file_stops_without_changes": true,
+  "tests_used_scratch_copy_only": true
+}

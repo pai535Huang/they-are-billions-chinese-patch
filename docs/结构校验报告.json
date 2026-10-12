@@ -1,0 +1,20 @@
+{
+  "xml_parses": true,
+  "all_non_chs_cells_unchanged": true,
+  "row_ids_and_column_definitions_unchanged": true,
+  "format_placeholders_valid": true,
+  "archive_roundtrip_matches": true,
+  "archive_member": "ZXStrings.dat",
+  "game_rules_untouched": true,
+  "installed_hashes_match": true,
+  "official_campaign_rows_synchronized": 479,
+  "official_workshop_item": "1559552741",
+  "official_workshop_author": "Numantian Games",
+  "other_languages_unchanged_in_all_three_files": true,
+  "main_menu_checked": true,
+  "official_50_days_intro_checked": true,
+  "campaign_hero_descriptions_checked": true,
+  "all_missions_layout_checked": false,
+  "other_resolutions_checked": false,
+  "crash_in_log": false
+}
